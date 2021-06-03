@@ -3,6 +3,8 @@
 # Links
 https://github.com/microsoftarchive/cqrs-journey
 
+https://michaeljswart.com/2017/07/sql-server-upsert-patterns-and-antipatterns/
+
 
 
 clean-architecture-api-boilerplate
