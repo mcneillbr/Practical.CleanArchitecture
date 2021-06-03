@@ -1,5 +1,10 @@
 # Practical.CleanArchitecture
 
+# Links
+https://github.com/microsoftarchive/cqrs-journey
+
+
+
 clean-architecture-api-boilerplate
 
 root - repositório
