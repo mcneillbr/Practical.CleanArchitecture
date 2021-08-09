@@ -5,7 +5,9 @@ https://github.com/microsoftarchive/cqrs-journey
 
 https://michaeljswart.com/2017/07/sql-server-upsert-patterns-and-antipatterns/
 
+https://dribbble.com/shots/13946594-Omni-channel-Conversation/attachments/5558081?mode=media * 
 
+https://www.justinmind.com/blog/how-to-design-a-messenger-app-in-justinmind/ *
 
 clean-architecture-api-boilerplate
 
